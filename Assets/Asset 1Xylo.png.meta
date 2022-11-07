@@ -1,7 +1,34 @@
 fileFormatVersion: 2
 guid: 98f3798ee23322041babbbedfb2d5a03
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 9094420974851482395
+    second: Asset 1Xylo_0
+  - first:
+      213: 6426553290509428151
+    second: Asset 1Xylo_1
+  - first:
+      213: 2438886104250228372
+    second: Asset 1Xylo_2
+  - first:
+      213: -6822756551127609469
+    second: Asset 1Xylo_3
+  - first:
+      213: -8144525845674105513
+    second: Asset 1Xylo_4
+  - first:
+      213: 6417573397379613651
+    second: Asset 1Xylo_5
+  - first:
+      213: 6713192048010090504
+    second: Asset 1Xylo_6
+  - first:
+      213: -509109753209068923
+    second: Asset 1Xylo_7
+  - first:
+      213: -4861510182992770314
+    second: Asset 1Xylo_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +68,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +102,234 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Asset 1Xylo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1001
+        width: 1347
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1362eb31bfd53e70800000000000000
+      internalID: 9094420974851482395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 1Xylo_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 99
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5aeea1b24bf2950800000000000000
+      internalID: 6426553290509428151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 1Xylo_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 100
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e98737df9a8d120800000000000000
+      internalID: 2438886104250228372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 1Xylo_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 100
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fc115b013b051a0800000000000000
+      internalID: -6822756551127609469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 1Xylo_4
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 0
+        width: 99
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7556b9815e4d8fe80800000000000000
+      internalID: -8144525845674105513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 1Xylo_5
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 99
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d30fcec00dcf0950800000000000000
+      internalID: 6417573397379613651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 1Xylo_6
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 100
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8085e92899c0a2d50800000000000000
+      internalID: 6713192048010090504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 1Xylo_7
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 99
+        height: 826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582694870674fe8f0800000000000000
+      internalID: -509109753209068923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 1Xylo_8
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 0
+        width: 99
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa85c6fe32788cb0800000000000000
+      internalID: -4861510182992770314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
